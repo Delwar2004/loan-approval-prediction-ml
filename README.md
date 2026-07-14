@@ -246,7 +246,7 @@ loan-approval-prediction-ml/
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/loan-approval-prediction-ml.git
+git clone (https://github.com/Delwar2004/loan-approval-prediction-ml/tree/main).git
 ```
 
 Navigate to the project
