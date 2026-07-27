@@ -292,13 +292,6 @@ This project strengthened practical understanding of:
 
 ---
 
-# 📌 Internship Information
-
-**Internship:** Elevvo Machine Learning Internship
-
-**Task:** Task 04 — Loan Approval Prediction
-
----
 
 # 👨‍💻 Author
 
